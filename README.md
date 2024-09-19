@@ -33,7 +33,7 @@ To use the calculator web page:
 
 ## Screenshots
 
-![Screenshot](age-calculator-app-main/design/active-states.jpg)
+![Screenshot]![Screenshot 2024-09-19 155331](https://github.com/user-attachments/assets/406f2abe-0ee3-4846-891b-70f6326d87ff)
 
 
 ## Live Demo
