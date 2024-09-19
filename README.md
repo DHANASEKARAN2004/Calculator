@@ -33,12 +33,12 @@ To use the calculator web page:
 
 ## Screenshots
 
-![Screenshot]![Screenshot 2024-09-19 155331](https://github.com/user-attachments/assets/406f2abe-0ee3-4846-891b-70f6326d87ff)
+![Screenshot 2024-09-19 155331](https://github.com/user-attachments/assets/406f2abe-0ee3-4846-891b-70f6326d87ff)
 
 
 ## Live Demo
 
-Access the live demo of the calculator web page [here](https://dhanasekaran.github.io/Calculator/calulator).
+Access the live demo of the calculator web page [here][(https://dhanasekaran.github.io/Calculator/calulator).](https://dhanasekaran2004.github.io/Calculator/)
 
 ## Contributing
 
