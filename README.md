@@ -1,6 +1,6 @@
 # Calculator Web Page
 
-This is a simple web application that allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division in real-time. It updates the result dynamically as users input numbers and operators.
+This is a simple web application that allows users to perform basic arithmetic calculations such as addition,subtraction, multiplication, and division in real-time. It updates the result dynamically as users input numbers and operators.
 
 ## Overview
 
