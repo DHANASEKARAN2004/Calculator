@@ -9,9 +9,13 @@ The calculator web page allows users to perform basic arithmetic operations such
 ## Features
 
 -Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+
 -Provides real-time updates as users input numbers and operators.
+
 -Supports clearing the display and deleting the last entry.
+
 -User-friendly interface with a responsive layout.
+
 -Error handling for invalid inputs.
 
 ## How to Use
